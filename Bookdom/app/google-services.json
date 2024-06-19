@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418833181418",
+    "project_id": "bookdom-989fb",
+    "storage_bucket": "bookdom-989fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418833181418:android:bdd6ffddcebff9149b8593",
+        "android_client_info": {
+          "package_name": "com.example.bookdom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpWaZx8wfa9EN3x0QOCJmnXVmrxYDP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

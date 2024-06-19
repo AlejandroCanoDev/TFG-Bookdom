@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.AjustesFragment">
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        style="@style/BACKGROUND"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txtCuenta"
+            style="@style/TextAppearance.AppCompat.Medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/textview_background"
+            android:padding="10dp"
+            android:shadowColor="@color/white"
+            android:text="@string/account"
+            android:textColor="@color/night_color"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtConfiguracion"
+            style="@style/TEXTO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/settings"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtAyuda"
+            style="@style/TEXTO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/help"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/txtSobreMi"
+            style="@style/TEXTO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/about_me"
+            android:textSize="18sp" />
+    </LinearLayout>
+</FrameLayout>

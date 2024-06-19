@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="idiomas_array">
+        <item>en</item>
+        <item>es</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>Precio Descendente</item>
+        <item>Precio Ascendente</item>
+        <item>Narrativa</item>
+        <item>Poesía</item>
+        <item>Teatro</item>
+        <item>Ensayo</item>
+        <item>Ciencia ficción</item>
+        <item>Fantasía</item>
+        <item>Terror</item>
+        <item>Romance</item>
+        <item>Drama</item>
+        <item>Aventura</item>
+        <item>Crimen</item>
+        <item>Misterio</item>
+        <item>Histórica</item>
+        <item>Biografía</item>
+        <item>Autobiografía</item>
+        <item>Viajes</item>
+        <item>Fantasía épica</item>
+        <item>Fantasía urbana</item>
+        <item>Realismo mágico</item>
+        <item>Humor</item>
+        <item>Surrealismo</item>
+        <item>Crónica</item>
+        <item>Erótica</item>
+        <item>Fábula</item>
+        <item>Cuento</item>
+        <item>Novela gráfica</item>
+        <item>Literatura infantil</item>
+        <item>Literatura juvenil</item>
+    </string-array>
+</resources>

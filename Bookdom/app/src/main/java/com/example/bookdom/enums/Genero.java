@@ -1,0 +1,32 @@
+package com.example.bookdom.enums;
+
+public enum Genero {
+    Narrativa,
+    Poesía,
+    Teatro,
+    Ensayo,
+    Ciencia_ficción,
+    Fantasía,
+    Terror,
+    Romance ,
+    Drama ,
+    Aventura ,
+    Crimen ,
+    Misterio ,
+    Histórica ,
+    Biografía ,
+    Autobiografía ,
+    Viajes ,
+    Fantasía_épica ,
+    Fantasía_urbana ,
+    Realismo_mágico ,
+    Humor ,
+    Surrealismo ,
+    Crónica ,
+    Erótica ,
+    Fábula ,
+    Cuento ,
+    Novela_gráfica ,
+    Literatura_infantil ,
+    Literatura_juvenil
+}
